@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>tech chintu</title>
+        <style>
+            h2{
+                colour:rgb(220, 220, 129);
+            }
+        </style>
+    </head>
+    <body>
+        <h1 style="color:rgb(38, 181, 181);">tech chintu</h1>
+        <h2>tech chintu</h2>
+        <h3>tech chintu</h3>
+    </body>
+</html>
