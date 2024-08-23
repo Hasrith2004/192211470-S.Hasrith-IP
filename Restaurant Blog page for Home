@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Restaurant Name | Home</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body style="background-color:lightgoldenrodyellow;">
+    <div style="text-align: center;"
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="menu.html">Menu</a></li>
+                <li><a href="reservations.html">Reservations</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section class="hero">
+        <img src="hero-image.jpg" alt="Restaurant Hero Image">
+        <div class="hero-text">
+            <h1>Welcome to Our Restaurant</h1>
+            <p>Experience the best dining in town with our delicious menu and cozy atmosphere.</p>
+        </div>
+    </section>
+    <a href="file:///C:/Users/hp/OneDrive/Desktop/IP%20CODES/reservation.html"></a>
+    <a href="file:///C:/Users/hp/OneDrive/Desktop/IP%20CODES/MENU.HTML"></a>
+    <a href="file:///C:/Users/hp/OneDrive/Desktop/IP%20CODES/Contact.html"></a>
+</body>
+</html>
