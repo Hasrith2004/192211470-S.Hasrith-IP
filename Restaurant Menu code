@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Restaurant Name | Menu</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body style="background-color: blanchedalmond;">
+    <div style="text-align: center;"></div>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="menu.html">Menu</a></li>
+                <li><a href="reservations.html">Reservations</a></li>
+                <li><a href="contact.html">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section class="menu">
+        <h2>Our Menu</h2>
+        
+        <div class="menu-category">
+            <h3>Appetizers</h3>
+            <ul>
+                <li>Bruschetta - $8</li>
+                <li>Stuffed Mushrooms - $10</li>
+                <!-- More items -->
+            </ul>
+        </div>
+        
+        <div class="menu-category">
+            <h3>Main Course</h3>
+            <ul>
+                <li>Grilled Steak - $25</li>
+                <li>Roasted Chicken - $20</li>
+                <!-- More items -->
+            </ul>
+        </div>
+        
+        <div class="menu-category">
+            <h3>Desserts</h3>
+            <ul>
+                <li>Tiramisu - $7</li>
+                <li>Cheesecake - $8</li>
+                <!-- More items -->
+            </ul>
+        </div>
+    </section>
+</body>
+</html>
